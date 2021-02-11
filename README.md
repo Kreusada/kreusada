@@ -7,6 +7,6 @@ I joined Discord and Github to study and develop code - it's a hobby I've gained
 
 Any issues on my repo(s), feel free to reach out.
 
-![Kreusada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreus7&show_icons=true&theme=radical)
+![Kreusada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreusada&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreus7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreusada)
