@@ -6,8 +6,8 @@ My main language is python, which I initially started learning back in 2017. I s
 
 I'd say my expertise in python is working with types, classes, and numerical data. Something that I wanted to work on was working more with asyncio to create and manage tasks, and to understand how they work. I'm interested in working with bitwise operators, and bytearrays, memoryviews. I also LOVE esoteric python :P
 
-Aside from development, my interests are football (⚽), running, and socializing. I play as a right-winger, and I have broke various records in my area for 100/200m sprints. 😏
+As for other languages, I'm fairly confident in batch, and I am currently learning Scala/Kojo!
 
-I'm also working on multilinguism as I'm hoping to travel more in the future. English and Spanish are my strong points, with a little tint of French. Oui oui!
+Aside from development, my interests are football (⚽), running, and socializing. I play as a right-winger, and I have broke various records in my area for 100/200m sprints. 😏
 
 ![Kreusada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreusada&show_icons=true&theme=radical)
