@@ -6,7 +6,7 @@ My main language is python, which I initially started learning back in 2017. I s
 
 I'd say my expertise in python is working with types, classes, and numerical data. Something that I wanted to work on was working more with asyncio to create and manage tasks, and to understand how they work. I'm interested in working with bitwise operators, and bytearrays, memoryviews. I also LOVE esoteric python :P
 
-As for other languages, I'm fairly confident in batch, and I am currently learning Scala/Kojo!
+As for other languages, I'm fairly confident in batch, and I am currently learning Scala/Kojo! I have a [patreon](https://patreon.com/kreusada) where you can sponsor my work, I'd be very grateful for any donations!
 
 Aside from development, my interests are football (⚽), running, and socializing. I play as a right-winger, and I have broke various records in my area for 100/200m sprints. 😏
 
