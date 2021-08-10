@@ -11,3 +11,4 @@ As for other languages, I'm fairly confident in batch, and I am currently learni
 Aside from development, my interests are football (⚽), running, and socializing. I play as a right-winger, and I have broke various records in my area for 100/200m sprints. 😏
 
 ![Kreusada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreusada&show_icons=true&theme=radical)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kreusada&show_icons=true&layout=compact&theme=light&count_private=true)
